@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: 31d197fc27937af40964ff9a4754ec37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1107791248358904859
+    second: basic life bars a icons  (1)_0
+  - first:
+      213: -3856435677720962016
+    second: basic life bars a icons  (1)_1
+  - first:
+      213: 159228401315063928
+    second: basic life bars a icons  (1)_2
+  - first:
+      213: -5607602266096251882
+    second: basic life bars a icons  (1)_3
+  - first:
+      213: 8617199288851774341
+    second: basic life bars a icons  (1)_4
+  - first:
+      213: -3531945399549976879
+    second: basic life bars a icons  (1)_5
+  - first:
+      213: -3688764453830201840
+    second: basic life bars a icons  (1)_6
+  - first:
+      213: -8633143892217492283
+    second: basic life bars a icons  (1)_7
+  - first:
+      213: -8184536130391135990
+    second: basic life bars a icons  (1)_8
+  - first:
+      213: 3892006994286121029
+    second: basic life bars a icons  (1)_9
+  - first:
+      213: -3696309435554375565
+    second: basic life bars a icons  (1)_10
+  - first:
+      213: -6919586571160087269
+    second: basic life bars a icons  (1)_11
+  - first:
+      213: 7634834125657530295
+    second: basic life bars a icons  (1)_12
+  - first:
+      213: -164644172060971355
+    second: basic life bars a icons  (1)_13
+  - first:
+      213: 7230039880425309745
+    second: basic life bars a icons  (1)_14
+  - first:
+      213: 3087046924639172753
+    second: basic life bars a icons  (1)_15
+  - first:
+      213: 4388327324170287188
+    second: basic life bars a icons  (1)_16
+  - first:
+      213: -1099545720804051483
+    second: basic life bars a icons  (1)_17
+  - first:
+      213: -1784860692890172780
+    second: basic life bars a icons  (1)_18
+  - first:
+      213: 6925001274352805332
+    second: basic life bars a icons  (1)_19
+  - first:
+      213: 5745481070722485080
+    second: basic life bars a icons  (1)_20
+  - first:
+      213: -9200355384210699906
+    second: basic life bars a icons  (1)_21
+  - first:
+      213: 1921497528118818347
+    second: basic life bars a icons  (1)_22
+  - first:
+      213: 3325792465398166585
+    second: basic life bars a icons  (1)_23
+  - first:
+      213: 4793850237253670014
+    second: basic life bars a icons  (1)_24
+  - first:
+      213: 1119741620736051391
+    second: basic life bars a icons  (1)_25
+  - first:
+      213: 594360055846113057
+    second: basic life bars a icons  (1)_26
+  - first:
+      213: 4470023397075069317
+    second: basic life bars a icons  (1)_27
+  - first:
+      213: 5063469585944016203
+    second: basic life bars a icons  (1)_28
+  - first:
+      213: -6573975544522908483
+    second: basic life bars a icons  (1)_29
+  - first:
+      213: -6651683366538898374
+    second: basic life bars a icons  (1)_30
+  - first:
+      213: 4048517138682719433
+    second: basic life bars a icons  (1)_31
+  - first:
+      213: -5987305094093788876
+    second: basic life bars a icons  (1)_32
+  - first:
+      213: 1450775815449871008
+    second: basic life bars a icons  (1)_33
+  - first:
+      213: -8795198741586291695
+    second: basic life bars a icons  (1)_34
+  - first:
+      213: -5107985948385392921
+    second: basic life bars a icons  (1)_35
+  - first:
+      213: 7459237397994750088
+    second: basic life bars a icons  (1)_36
+  - first:
+      213: 3700695609229320099
+    second: basic life bars a icons  (1)_37
+  - first:
+      213: -6229048019683362811
+    second: basic life bars a icons  (1)_38
+  - first:
+      213: -6831521870062166468
+    second: basic life bars a icons  (1)_39
+  - first:
+      213: -2319813500570207890
+    second: basic life bars a icons  (1)_40
+  - first:
+      213: -8294980335593587814
+    second: basic life bars a icons  (1)_41
+  - first:
+      213: -3723103790298437142
+    second: basic life bars a icons  (1)_42
+  - first:
+      213: -4043183771964439681
+    second: basic life bars a icons  (1)_43
+  - first:
+      213: 6130218847710967961
+    second: basic life bars a icons  (1)_44
+  - first:
+      213: -4279032297314140791
+    second: basic life bars a icons  (1)_45
+  - first:
+      213: -829584568897702547
+    second: basic life bars a icons  (1)_46
+  - first:
+      213: 7455926544130465682
+    second: basic life bars a icons  (1)_47
+  - first:
+      213: -3823409554115674598
+    second: basic life bars a icons  (1)_48
+  - first:
+      213: -3034159527604964218
+    second: basic life bars a icons  (1)_49
+  - first:
+      213: 2742504940684490950
+    second: basic life bars a icons  (1)_50
+  - first:
+      213: -8575114520352185501
+    second: basic life bars a icons  (1)_51
+  - first:
+      213: -1907157723182123347
+    second: basic life bars a icons  (1)_52
+  - first:
+      213: 1486546020310186365
+    second: basic life bars a icons  (1)_53
+  - first:
+      213: 705567182871183038
+    second: basic life bars a icons  (1)_54
+  - first:
+      213: -2179022818235985043
+    second: basic life bars a icons  (1)_55
+  - first:
+      213: 259467573699076626
+    second: basic life bars a icons  (1)_56
+  - first:
+      213: 3018529816793367018
+    second: basic life bars a icons  (1)_57
+  - first:
+      213: 6608491139907422016
+    second: basic life bars a icons  (1)_58
+  - first:
+      213: -3726089092286671946
+    second: basic life bars a icons  (1)_59
+  - first:
+      213: 8874901354082971109
+    second: basic life bars a icons  (1)_60
+  - first:
+      213: 672922051344263984
+    second: basic life bars a icons  (1)_61
+  - first:
+      213: 3842882166806195872
+    second: basic life bars a icons  (1)_62
+  - first:
+      213: 286108370048194555
+    second: basic life bars a icons  (1)_63
+  - first:
+      213: 3061445731601939327
+    second: basic life bars a icons  (1)_64
+  - first:
+      213: -6435269139401802518
+    second: basic life bars a icons  (1)_65
+  - first:
+      213: 2312236112947462631
+    second: basic life bars a icons  (1)_66
+  - first:
+      213: 4985871261409015259
+    second: basic life bars a icons  (1)_67
+  - first:
+      213: 171213729206138250
+    second: basic life bars a icons  (1)_68
+  - first:
+      213: -6707972527524826609
+    second: basic life bars a icons  (1)_69
+  - first:
+      213: -8561801680536927917
+    second: basic life bars a icons  (1)_70
+  - first:
+      213: 6177037695964636610
+    second: basic life bars a icons  (1)_71
+  - first:
+      213: 5545465541481793737
+    second: basic life bars a icons  (1)_72
+  - first:
+      213: 3461108911011585954
+    second: basic life bars a icons  (1)_73
+  - first:
+      213: 4100362261282000208
+    second: basic life bars a icons  (1)_74
+  - first:
+      213: -3249959949080987931
+    second: basic life bars a icons  (1)_75
+  - first:
+      213: -4868057698185267104
+    second: basic life bars a icons  (1)_76
+  - first:
+      213: -91703939947705649
+    second: basic life bars a icons  (1)_77
+  - first:
+      213: 3273940060599970975
+    second: basic life bars a icons  (1)_78
+  - first:
+      213: 6886229918612314690
+    second: basic life bars a icons  (1)_79
+  - first:
+      213: -4779907283593824609
+    second: basic life bars a icons  (1)_80
+  - first:
+      213: 1034561762012812961
+    second: basic life bars a icons  (1)_81
+  - first:
+      213: -235486752534293996
+    second: basic life bars a icons  (1)_82
+  - first:
+      213: 4917923550772032875
+    second: basic life bars a icons  (1)_83
+  - first:
+      213: -79306759453402626
+    second: basic life bars a icons  (1)_84
+  - first:
+      213: -5211182323312957900
+    second: basic life bars a icons  (1)_85
+  - first:
+      213: 5595226719834019132
+    second: basic life bars a icons  (1)_86
+  - first:
+      213: -911788964450893840
+    second: basic life bars a icons  (1)_87
+  - first:
+      213: -6025720646864218926
+    second: basic life bars a icons  (1)_88
+  - first:
+      213: -5123701655693852859
+    second: basic life bars a icons  (1)_89
+  - first:
+      213: -1237243006699872741
+    second: basic life bars a icons  (1)_90
+  - first:
+      213: 7052940098090541449
+    second: basic life bars a icons  (1)_91
+  - first:
+      213: -7954523245241423447
+    second: basic life bars a icons  (1)_92
+  - first:
+      213: 4717213519255081180
+    second: basic life bars a icons  (1)_93
+  - first:
+      213: -3404860261258474797
+    second: basic life bars a icons  (1)_94
+  - first:
+      213: 5722213304034277878
+    second: basic life bars a icons  (1)_95
+  - first:
+      213: -328717846227298139
+    second: basic life bars a icons  (1)_96
+  - first:
+      213: 8759503159789555625
+    second: basic life bars a icons  (1)_97
+  - first:
+      213: -7747978321760309846
+    second: basic life bars a icons  (1)_98
+  - first:
+      213: 1380703537502568635
+    second: basic life bars a icons  (1)_99
+  - first:
+      213: -5210505828756828392
+    second: basic life bars a icons  (1)_100
+  - first:
+      213: -198656246877118164
+    second: basic life bars a icons  (1)_101
+  - first:
+      213: 5263523785072823246
+    second: basic life bars a icons  (1)_102
+  - first:
+      213: 1205420465417801233
+    second: basic life bars a icons  (1)_103
+  - first:
+      213: 1661247210176112320
+    second: basic life bars a icons  (1)_104
+  - first:
+      213: -7242055011606799423
+    second: basic life bars a icons  (1)_105
+  - first:
+      213: 5609603591416650230
+    second: basic life bars a icons  (1)_106
+  - first:
+      213: 985973393253859511
+    second: basic life bars a icons  (1)_107
+  - first:
+      213: -2719323067731263341
+    second: basic life bars a icons  (1)_108
+  - first:
+      213: -8987825354930594491
+    second: basic life bars a icons  (1)_109
+  - first:
+      213: -5483609944284223924
+    second: basic life bars a icons  (1)_110
+  - first:
+      213: -6393354996881070082
+    second: basic life bars a icons  (1)_111
+  - first:
+      213: 2886233567636188019
+    second: basic life bars a icons  (1)_112
+  - first:
+      213: 1781733984034306304
+    second: basic life bars a icons  (1)_113
+  - first:
+      213: 7298595374395894256
+    second: basic life bars a icons  (1)_114
+  - first:
+      213: 7758253243397115746
+    second: basic life bars a icons  (1)_115
+  - first:
+      213: 5245149993389503514
+    second: basic life bars a icons  (1)_116
+  - first:
+      213: 4752184080398692902
+    second: basic life bars a icons  (1)_117
+  - first:
+      213: -9059381419641324753
+    second: basic life bars a icons  (1)_118
+  - first:
+      213: 8073178175028272403
+    second: basic life bars a icons  (1)_119
+  - first:
+      213: 8806006717090829282
+    second: basic life bars a icons  (1)_120
+  - first:
+      213: -7415281296719772261
+    second: basic life bars a icons  (1)_121
+  - first:
+      213: 4862451354979322283
+    second: basic life bars a icons  (1)_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe74c9ab550a0f0800000000000000
+      internalID: -1107791248358904859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 160
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c9c42fe203b7ac0800000000000000
+      internalID: -3856435677720962016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a98a2361b53200800000000000000
+      internalID: 159228401315063928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c48a7037bcd22b0800000000000000
+      internalID: -5607602266096251882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b32cae811769770800000000000000
+      internalID: 8617199288851774341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de9fb54f520cfec0800000000000000
+      internalID: -3531945399549976879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 156
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eec5de540eeccc0800000000000000
+      internalID: -3688764453830201840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0b81de59e03880800000000000000
+      internalID: -8633143892217492283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 145
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09afa0c0cfaa6e80800000000000000
+      internalID: -8184536130391135990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 141
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54092c59dbf230630800000000000000
+      internalID: 3892006994286121029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785bd9f62214bcc0800000000000000
+      internalID: -3696309435554375565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159071dca0b8ff90800000000000000
+      internalID: -6919586571160087269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfd8daaf2164f960800000000000000
+      internalID: 7634834125657530295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aea7f17ff017bdf0800000000000000
+      internalID: -164644172060971355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 126
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13688a007f2465460800000000000000
+      internalID: 7230039880425309745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 124
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198741472d467da20800000000000000
+      internalID: 3087046924639172753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587f43737876ec30800000000000000
+      internalID: 4388327324170287188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57c291ef0adb0f0800000000000000
+      internalID: -1099545720804051483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49249ba08a6ea37e0800000000000000
+      internalID: -1784860692890172780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d52de208fb8a1060800000000000000
+      internalID: 6925001274352805332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b052cc79c0cbf40800000000000000
+      internalID: 5745481070722485080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 108
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c4cc0685c15080800000000000000
+      internalID: -9200355384210699906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26305042d78aaa10800000000000000
+      internalID: 1921497528118818347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 114
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9347ab060a6972e20800000000000000
+      internalID: 3325792465398166585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 117
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e745de1546d278240800000000000000
+      internalID: 4793850237253670014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 117
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84138421f1a8f00800000000000000
+      internalID: 1119741620736051391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f836d52579f3800800000000000000
+      internalID: 594360055846113057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 93
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892850b896b80e30800000000000000
+      internalID: 4470023397075069317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45ff21d2ce054640800000000000000
+      internalID: 5063469585944016203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 91
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5b9a921c84c4a0800000000000000
+      internalID: -6573975544522908483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a341313683970b3a0800000000000000
+      internalID: -6651683366538898374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca34e33e83f2830800000000000000
+      internalID: 4048517138682719433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43927a03db1d8eca0800000000000000
+      internalID: -5987305094093788876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a20e98eae0322410800000000000000
+      internalID: 1450775815449871008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11459cee75d21f580800000000000000
+      internalID: -8795198741586291695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e64dccd7d9cc19b0800000000000000
+      internalID: -5107985948385392921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88049ca84e8848760800000000000000
+      internalID: 7459237397994750088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af16f9ac038b5330800000000000000
+      internalID: 3700695609229320099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5083ce934d9fd89a0800000000000000
+      internalID: -6229048019683362811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ed1abdd0f8131a0800000000000000
+      internalID: -6831521870062166468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e697b5189ed5ecfd0800000000000000
+      internalID: -2319813500570207890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bf71e555f42ec80800000000000000
+      internalID: -8294980335593587814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e95d14d0e45cc0800000000000000
+      internalID: -3723103790298437142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f738f66f7c9b3e7c0800000000000000
+      internalID: -4043183771964439681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998773d0099e21550800000000000000
+      internalID: 6130218847710967961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_45
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dba200cc2dd94c0800000000000000
+      internalID: -4279032297314140791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f4bbda39bc74f0800000000000000
+      internalID: -829584568897702547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f5d4e40b5c87760800000000000000
+      internalID: 7455926544130465682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb910944580fac0800000000000000
+      internalID: -3823409554115674598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843d3d3cff74e5d0800000000000000
+      internalID: -3034159527604964218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b04096b55f0620800000000000000
+      internalID: 2742504940684490950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3632d12d6c21ff880800000000000000
+      internalID: -8575114520352185501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63613c72a6885e0800000000000000
+      internalID: -1907157723182123347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79fbdabab541a410800000000000000
+      internalID: 1486546020310186365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeb5345d9daac900800000000000000
+      internalID: 705567182871183038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d291ba4e82c1e0800000000000000
+      internalID: -2179022818235985043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e0113260d99300800000000000000
+      internalID: 259467573699076626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1c4e120e8f3e920800000000000000
+      internalID: 3018529816793367018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0478f7fada316bb50800000000000000
+      internalID: 6608491139907422016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39bc456b54a4cc0800000000000000
+      internalID: -3726089092286671946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edafb2a2cbf92b70800000000000000
+      internalID: 8874901354082971109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be6e75a03b65900800000000000000
+      internalID: 672922051344263984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_62
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeaa2268f8a45530800000000000000
+      internalID: 3842882166806195872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_63
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71df3fb0678f300800000000000000
+      internalID: 286108370048194555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_64
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bf4433ca07c7a20800000000000000
+      internalID: 3061445731601939327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecfbef20d451b6a0800000000000000
+      internalID: -6435269139401802518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 58
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e140157e76b61020800000000000000
+      internalID: 2312236112947462631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 58
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5fc18fe7f513540800000000000000
+      internalID: 4985871261409015259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 58
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857006caf5406200800000000000000
+      internalID: 171213729206138250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02bdcdc68e78e2a0800000000000000
+      internalID: -6707972527524826609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3510142ebbe5e2980800000000000000
+      internalID: -8561801680536927917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c56b20ae0f39b550800000000000000
+      internalID: 6177037695964636610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c80132678375fc40800000000000000
+      internalID: 5545465541481793737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_73
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd8c18734580030800000000000000
+      internalID: 3461108911011585954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d812280c967e830800000000000000
+      internalID: 4100362261282000208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f7c435a2d5e2d0800000000000000
+      internalID: -3249959949080987931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068bf89c05f217cb0800000000000000
+      internalID: -4868057698185267104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac9e2a0c33abef0800000000000000
+      internalID: -91703939947705649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_78
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c6bf7932f5f6d20800000000000000
+      internalID: 3273940060599970975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24add8c40adc09f50800000000000000
+      internalID: 6886229918612314690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96761e86ab5aadb0800000000000000
+      internalID: -4779907283593824609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d9f2f0708b5e00800000000000000
+      internalID: 1034561762012812961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41212e5db026bbcf0800000000000000
+      internalID: -235486752534293996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657b44c969ff3440800000000000000
+      internalID: 4917923550772032875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_84
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 40
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91e762cee36eef0800000000000000
+      internalID: -79306759453402626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e22779492ea7b0800000000000000
+      internalID: -5211182323312957900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_86
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c351b719e0d36ad40800000000000000
+      internalID: 5595226719834019132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_87
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff78c784cca853f0800000000000000
+      internalID: -911788964450893840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4dbef4ff6506ca0800000000000000
+      internalID: -6025720646864218926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f794d9d74f4e8b0800000000000000
+      internalID: -5123701655693852859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e51d46a0e64dee0800000000000000
+      internalID: -1237243006699872741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_91
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981abc0b6a311e160800000000000000
+      internalID: 7052940098090541449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a92cc9d04bdb9190800000000000000
+      internalID: -7954523245241423447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd09ed0f3b8e67140800000000000000
+      internalID: 4717213519255081180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da48d1d1a18fb0d0800000000000000
+      internalID: -3404860261258474797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_95
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f93af3bea2696f40800000000000000
+      internalID: 5722213304034277878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_96
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a85a484cd8207bf0800000000000000
+      internalID: -328717846227298139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_97
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af0b28c6b1009970800000000000000
+      internalID: 8759503159789555625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadac0454c6a97490800000000000000
+      internalID: -7747978321760309846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb047f45d8e392310800000000000000
+      internalID: 1380703537502568635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fc8d02e8090b7b0800000000000000
+      internalID: -5210505828756828392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_101
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212a7c223b3e3df0800000000000000
+      internalID: -198656246877118164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc514cefacb0940800000000000000
+      internalID: 5263523785072823246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec636d6838ab010800000000000000
+      internalID: 1205420465417801233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_104
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6e7a6398fed0710800000000000000
+      internalID: 1661247210176112320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_105
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbd655465d0f7b90800000000000000
+      internalID: -7242055011606799423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_106
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f91525deb059dd40800000000000000
+      internalID: 5609603591416650230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_107
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b002e6c391eead00800000000000000
+      internalID: 985973393253859511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3904a56d316034ad0800000000000000
+      internalID: -2719323067731263341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ddc109574d44380800000000000000
+      internalID: -8987825354930594491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46a3202fcd46e3b0800000000000000
+      internalID: -5483609944284223924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef76fe7f08d3647a0800000000000000
+      internalID: -6393354996881070082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b63c94326fd0820800000000000000
+      internalID: 2886233567636188019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093b925e9df9b810800000000000000
+      internalID: 1781733984034306304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_114
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92d2ac2d1d94560800000000000000
+      internalID: 7298595374395894256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_115
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f053a483adaab60800000000000000
+      internalID: 7758253243397115746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14bf9501248ac840800000000000000
+      internalID: 5245149993389503514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_117
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6223e633e3623f140800000000000000
+      internalID: 4752184080398692902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b3185f89c964280800000000000000
+      internalID: -9059381419641324753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_119
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1ff2d6c0b90070800000000000000
+      internalID: 8073178175028272403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_120
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e317e5f378353a70800000000000000
+      internalID: 8806006717090829282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_121
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b958b6fc2f0a71990800000000000000
+      internalID: -7415281296719772261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic life bars a icons  (1)_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c827beb5ea7340800000000000000
+      internalID: 4862451354979322283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      basic life bars a icons  (1)_0: -1107791248358904859
+      basic life bars a icons  (1)_1: -3856435677720962016
+      basic life bars a icons  (1)_10: -3696309435554375565
+      basic life bars a icons  (1)_100: -5210505828756828392
+      basic life bars a icons  (1)_101: -198656246877118164
+      basic life bars a icons  (1)_102: 5263523785072823246
+      basic life bars a icons  (1)_103: 1205420465417801233
+      basic life bars a icons  (1)_104: 1661247210176112320
+      basic life bars a icons  (1)_105: -7242055011606799423
+      basic life bars a icons  (1)_106: 5609603591416650230
+      basic life bars a icons  (1)_107: 985973393253859511
+      basic life bars a icons  (1)_108: -2719323067731263341
+      basic life bars a icons  (1)_109: -8987825354930594491
+      basic life bars a icons  (1)_11: -6919586571160087269
+      basic life bars a icons  (1)_110: -5483609944284223924
+      basic life bars a icons  (1)_111: -6393354996881070082
+      basic life bars a icons  (1)_112: 2886233567636188019
+      basic life bars a icons  (1)_113: 1781733984034306304
+      basic life bars a icons  (1)_114: 7298595374395894256
+      basic life bars a icons  (1)_115: 7758253243397115746
+      basic life bars a icons  (1)_116: 5245149993389503514
+      basic life bars a icons  (1)_117: 4752184080398692902
+      basic life bars a icons  (1)_118: -9059381419641324753
+      basic life bars a icons  (1)_119: 8073178175028272403
+      basic life bars a icons  (1)_12: 7634834125657530295
+      basic life bars a icons  (1)_120: 8806006717090829282
+      basic life bars a icons  (1)_121: -7415281296719772261
+      basic life bars a icons  (1)_122: 4862451354979322283
+      basic life bars a icons  (1)_13: -164644172060971355
+      basic life bars a icons  (1)_14: 7230039880425309745
+      basic life bars a icons  (1)_15: 3087046924639172753
+      basic life bars a icons  (1)_16: 4388327324170287188
+      basic life bars a icons  (1)_17: -1099545720804051483
+      basic life bars a icons  (1)_18: -1784860692890172780
+      basic life bars a icons  (1)_19: 6925001274352805332
+      basic life bars a icons  (1)_2: 159228401315063928
+      basic life bars a icons  (1)_20: 5745481070722485080
+      basic life bars a icons  (1)_21: -9200355384210699906
+      basic life bars a icons  (1)_22: 1921497528118818347
+      basic life bars a icons  (1)_23: 3325792465398166585
+      basic life bars a icons  (1)_24: 4793850237253670014
+      basic life bars a icons  (1)_25: 1119741620736051391
+      basic life bars a icons  (1)_26: 594360055846113057
+      basic life bars a icons  (1)_27: 4470023397075069317
+      basic life bars a icons  (1)_28: 5063469585944016203
+      basic life bars a icons  (1)_29: -6573975544522908483
+      basic life bars a icons  (1)_3: -5607602266096251882
+      basic life bars a icons  (1)_30: -6651683366538898374
+      basic life bars a icons  (1)_31: 4048517138682719433
+      basic life bars a icons  (1)_32: -5987305094093788876
+      basic life bars a icons  (1)_33: 1450775815449871008
+      basic life bars a icons  (1)_34: -8795198741586291695
+      basic life bars a icons  (1)_35: -5107985948385392921
+      basic life bars a icons  (1)_36: 7459237397994750088
+      basic life bars a icons  (1)_37: 3700695609229320099
+      basic life bars a icons  (1)_38: -6229048019683362811
+      basic life bars a icons  (1)_39: -6831521870062166468
+      basic life bars a icons  (1)_4: 8617199288851774341
+      basic life bars a icons  (1)_40: -2319813500570207890
+      basic life bars a icons  (1)_41: -8294980335593587814
+      basic life bars a icons  (1)_42: -3723103790298437142
+      basic life bars a icons  (1)_43: -4043183771964439681
+      basic life bars a icons  (1)_44: 6130218847710967961
+      basic life bars a icons  (1)_45: -4279032297314140791
+      basic life bars a icons  (1)_46: -829584568897702547
+      basic life bars a icons  (1)_47: 7455926544130465682
+      basic life bars a icons  (1)_48: -3823409554115674598
+      basic life bars a icons  (1)_49: -3034159527604964218
+      basic life bars a icons  (1)_5: -3531945399549976879
+      basic life bars a icons  (1)_50: 2742504940684490950
+      basic life bars a icons  (1)_51: -8575114520352185501
+      basic life bars a icons  (1)_52: -1907157723182123347
+      basic life bars a icons  (1)_53: 1486546020310186365
+      basic life bars a icons  (1)_54: 705567182871183038
+      basic life bars a icons  (1)_55: -2179022818235985043
+      basic life bars a icons  (1)_56: 259467573699076626
+      basic life bars a icons  (1)_57: 3018529816793367018
+      basic life bars a icons  (1)_58: 6608491139907422016
+      basic life bars a icons  (1)_59: -3726089092286671946
+      basic life bars a icons  (1)_6: -3688764453830201840
+      basic life bars a icons  (1)_60: 8874901354082971109
+      basic life bars a icons  (1)_61: 672922051344263984
+      basic life bars a icons  (1)_62: 3842882166806195872
+      basic life bars a icons  (1)_63: 286108370048194555
+      basic life bars a icons  (1)_64: 3061445731601939327
+      basic life bars a icons  (1)_65: -6435269139401802518
+      basic life bars a icons  (1)_66: 2312236112947462631
+      basic life bars a icons  (1)_67: 4985871261409015259
+      basic life bars a icons  (1)_68: 171213729206138250
+      basic life bars a icons  (1)_69: -6707972527524826609
+      basic life bars a icons  (1)_7: -8633143892217492283
+      basic life bars a icons  (1)_70: -8561801680536927917
+      basic life bars a icons  (1)_71: 6177037695964636610
+      basic life bars a icons  (1)_72: 5545465541481793737
+      basic life bars a icons  (1)_73: 3461108911011585954
+      basic life bars a icons  (1)_74: 4100362261282000208
+      basic life bars a icons  (1)_75: -3249959949080987931
+      basic life bars a icons  (1)_76: -4868057698185267104
+      basic life bars a icons  (1)_77: -91703939947705649
+      basic life bars a icons  (1)_78: 3273940060599970975
+      basic life bars a icons  (1)_79: 6886229918612314690
+      basic life bars a icons  (1)_8: -8184536130391135990
+      basic life bars a icons  (1)_80: -4779907283593824609
+      basic life bars a icons  (1)_81: 1034561762012812961
+      basic life bars a icons  (1)_82: -235486752534293996
+      basic life bars a icons  (1)_83: 4917923550772032875
+      basic life bars a icons  (1)_84: -79306759453402626
+      basic life bars a icons  (1)_85: -5211182323312957900
+      basic life bars a icons  (1)_86: 5595226719834019132
+      basic life bars a icons  (1)_87: -911788964450893840
+      basic life bars a icons  (1)_88: -6025720646864218926
+      basic life bars a icons  (1)_89: -5123701655693852859
+      basic life bars a icons  (1)_9: 3892006994286121029
+      basic life bars a icons  (1)_90: -1237243006699872741
+      basic life bars a icons  (1)_91: 7052940098090541449
+      basic life bars a icons  (1)_92: -7954523245241423447
+      basic life bars a icons  (1)_93: 4717213519255081180
+      basic life bars a icons  (1)_94: -3404860261258474797
+      basic life bars a icons  (1)_95: 5722213304034277878
+      basic life bars a icons  (1)_96: -328717846227298139
+      basic life bars a icons  (1)_97: 8759503159789555625
+      basic life bars a icons  (1)_98: -7747978321760309846
+      basic life bars a icons  (1)_99: 1380703537502568635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
